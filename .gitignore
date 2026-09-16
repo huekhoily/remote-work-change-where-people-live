@@ -1,0 +1,12 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Secret files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
